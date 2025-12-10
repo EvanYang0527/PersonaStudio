@@ -1,0 +1,20 @@
+{
+  "name": "personastudio",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/EvanYang0527/PersonaStudio#readme",
+  "bugs": {
+    "url": "https://github.com/EvanYang0527/PersonaStudio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanYang0527/PersonaStudio.git"
+  },
+  "license": "ISC",
+  "author": "Yifan Yang",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
